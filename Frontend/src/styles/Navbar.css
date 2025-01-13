@@ -1,0 +1,33 @@
+.nav-link {
+    color: #2A2A2A !important;
+    font-weight: 500 !important;
+    font-size: 1.1rem;
+    padding: 0.8rem !important;
+  }
+  
+  .nav-link.active {
+    text-decoration: underline;
+  }
+
+
+.btn-logout {
+    background-color: #2A2A2A !important;
+    color: rgb(255, 255, 255) !important;
+    border: none !important;
+  }
+  
+  .btn-logout:hover {
+    background-color: #535353 !important;
+    color: #ffffff !important;
+  }
+
+.lox{
+  background-color: #ffffff !important;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.closer{
+  padding-left: 15% !important;
+  padding-right: 15% !important;
+
+}

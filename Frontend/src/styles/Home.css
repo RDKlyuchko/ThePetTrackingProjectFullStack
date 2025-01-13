@@ -1,0 +1,47 @@
+.btn-addpet {
+    color: #2A2A2A !important; 
+    font-weight: 500 !important;
+    border: none !important;
+  }
+  
+  .btn-addpet:hover {
+    color: #2A2A2A !important;
+    text-decoration: underline;
+  }
+  
+  .move-right {
+    margin-left: 20px;
+    padding: 6px 12px;
+    font-size: 14px;
+  }
+  
+  .bordik{
+    border-radius: 10px;
+    border: 1px solid #dfdfdf;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  body {
+    background-color: #eeeeee !important;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+  }
+  
+  .centered-container  {
+    background-color: rgb(245, 245, 245);
+    max-width: 1800px;
+    margin: 0 auto;
+    padding: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 0;
+  }
+
+  .stoplimit{
+    max-width: 1800px !important;
+  }

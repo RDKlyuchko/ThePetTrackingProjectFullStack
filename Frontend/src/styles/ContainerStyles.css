@@ -1,0 +1,15 @@
+.pobolee{
+    border-radius: 10px;
+    border: 1px solid #dfdfdf;
+    max-width: 700px !important;
+    padding: 1rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.pobolee2{
+    border-radius: 10px;
+    border: 1px solid #dfdfdf;
+    max-width: 900px !important;
+    padding: 1rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
